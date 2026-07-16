@@ -9,7 +9,7 @@
  * Time Complexity: O(n)
  * Space Complexity: O(1)
  */
-public class Solution {
+class Solution {
     public ListNode detectCycle(ListNode head) {
         ListNode slow=head;
         ListNode fast=head;
