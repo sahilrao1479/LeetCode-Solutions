@@ -11,6 +11,7 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,4 +36,9 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
