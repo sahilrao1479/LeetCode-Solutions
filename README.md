@@ -59,4 +59,12 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
