@@ -7,6 +7,7 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,4 +68,8 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0796-rotate-string) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
