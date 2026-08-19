@@ -34,6 +34,7 @@ My Java solutions to LeetCode problems.
 | [0104-maximum-depth-of-binary-tree](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -64,6 +65,7 @@ My Java solutions to LeetCode problems.
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -93,4 +95,12 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
