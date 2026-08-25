@@ -94,6 +94,7 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0066-plus-one) |
 ## Sorting
 |  |
