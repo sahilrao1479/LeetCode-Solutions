@@ -7,6 +7,7 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -87,6 +88,7 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0796-rotate-string) |
 ## String Matching
@@ -133,4 +135,8 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
