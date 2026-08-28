@@ -9,6 +9,7 @@ My Java solutions to LeetCode problems.
 | [0001-two-sum](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -145,4 +146,8 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
