@@ -17,6 +17,7 @@ My Java solutions to LeetCode problems.
 | [0283-move-zeroes](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,6 +155,7 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Binary Search
 |  |
 | ------- |
