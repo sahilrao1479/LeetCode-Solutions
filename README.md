@@ -42,6 +42,7 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -52,6 +53,7 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -62,6 +64,7 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -200,4 +203,8 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
