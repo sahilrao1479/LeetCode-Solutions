@@ -14,6 +14,7 @@ My Java solutions to LeetCode problems.
 | [0016-3sum-closest](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -124,6 +125,7 @@ My Java solutions to LeetCode problems.
 | ------- |
 | [0007-reverse-integer](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -207,4 +209,8 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
