@@ -14,6 +14,7 @@ My Java solutions to LeetCode problems.
 | [0016-3sum-closest](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -30,6 +31,7 @@ My Java solutions to LeetCode problems.
 | ------- |
 | [0001-two-sum](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -217,5 +219,6 @@ My Java solutions to LeetCode problems.
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
