@@ -17,6 +17,7 @@ My Java solutions to LeetCode problems.
 | [0036-valid-sudoku](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0217-contains-duplicate](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -202,6 +203,7 @@ My Java solutions to LeetCode problems.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Design
 |  |
@@ -221,4 +223,8 @@ My Java solutions to LeetCode problems.
 | ------- |
 | [0036-valid-sudoku](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0048-rotate-image) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
