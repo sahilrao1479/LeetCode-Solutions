@@ -159,6 +159,7 @@ My Java solutions to LeetCode problems.
 | [0066-plus-one](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0836-rectangle-overlap](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -262,4 +263,8 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
