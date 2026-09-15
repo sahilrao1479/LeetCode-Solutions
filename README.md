@@ -158,6 +158,7 @@ My Java solutions to LeetCode problems.
 | [0009-palindrome-number](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
@@ -222,6 +223,7 @@ My Java solutions to LeetCode problems.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Simulation
@@ -271,4 +273,8 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
