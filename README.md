@@ -15,6 +15,7 @@ My Java solutions to LeetCode problems.
 | [0031-next-permutation](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0078-subsets) |
@@ -47,6 +48,7 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Tree
 |  |
@@ -116,6 +118,7 @@ My Java solutions to LeetCode problems.
 | [0016-3sum-closest](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -198,6 +201,7 @@ My Java solutions to LeetCode problems.
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -283,4 +287,8 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0069-sqrtx) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
