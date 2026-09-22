@@ -148,6 +148,7 @@ My Java solutions to LeetCode problems.
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0038-count-and-say](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0344-reverse-string](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0796-rotate-string) |
