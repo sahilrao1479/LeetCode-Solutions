@@ -159,6 +159,7 @@ My Java solutions to LeetCode problems.
 | [0344-reverse-string](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1392-longest-happy-prefix](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1392-longest-happy-prefix) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -221,6 +222,7 @@ My Java solutions to LeetCode problems.
 | [0145-binary-tree-postorder-traversal](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0856-score-of-parentheses](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
@@ -243,6 +245,7 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Binary Search
 |  |
@@ -336,6 +339,7 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
