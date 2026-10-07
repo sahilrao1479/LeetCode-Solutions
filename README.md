@@ -22,6 +22,7 @@ My Java solutions to LeetCode problems.
 | [0078-subsets](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -269,6 +270,7 @@ My Java solutions to LeetCode problems.
 | ------- |
 | [0029-divide-two-integers](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Design
 |  |
