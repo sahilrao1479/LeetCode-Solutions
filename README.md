@@ -18,6 +18,7 @@ My Java solutions to LeetCode problems.
 | [0036-valid-sudoku](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0056-merge-intervals](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0079-word-search) |
@@ -198,6 +199,7 @@ My Java solutions to LeetCode problems.
 | ------- |
 | [0015-3sum](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -361,5 +363,6 @@ My Java solutions to LeetCode problems.
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
