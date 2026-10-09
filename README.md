@@ -33,6 +33,7 @@ My Java solutions to LeetCode problems.
 | [0435-non-overlapping-intervals](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0724-find-pivot-index](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -59,6 +60,7 @@ My Java solutions to LeetCode problems.
 | [0042-trapping-rain-water](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Tree
 |  |
@@ -205,6 +207,7 @@ My Java solutions to LeetCode problems.
 | [0268-missing-number](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0646-maximum-length-of-pair-chain](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
@@ -262,6 +265,7 @@ My Java solutions to LeetCode problems.
 | [0435-non-overlapping-intervals](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -369,4 +373,8 @@ My Java solutions to LeetCode problems.
 | ------- |
 | [0056-merge-intervals](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
