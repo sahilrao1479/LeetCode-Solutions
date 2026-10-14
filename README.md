@@ -202,6 +202,7 @@ My Java solutions to LeetCode problems.
 | [0268-missing-number](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 ## Sorting
@@ -279,6 +280,7 @@ My Java solutions to LeetCode problems.
 | [1029-two-city-scheduling](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1029-two-city-scheduling) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
