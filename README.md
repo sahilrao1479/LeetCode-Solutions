@@ -42,6 +42,7 @@ My Java solutions to LeetCode problems.
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -58,6 +59,7 @@ My Java solutions to LeetCode problems.
 | [0268-missing-number](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0457-circular-array-loop](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -402,4 +404,12 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
