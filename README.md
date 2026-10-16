@@ -171,6 +171,7 @@ My Java solutions to LeetCode problems.
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0079-word-search) |
@@ -243,6 +244,7 @@ My Java solutions to LeetCode problems.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -376,6 +378,7 @@ My Java solutions to LeetCode problems.
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
