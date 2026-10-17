@@ -44,6 +44,7 @@ My Java solutions to LeetCode problems.
 | [2778-sum-of-squares-of-special-elements](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -60,6 +61,7 @@ My Java solutions to LeetCode problems.
 | [0457-circular-array-loop](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -221,6 +223,7 @@ My Java solutions to LeetCode problems.
 | [0646-maximum-length-of-pair-chain](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1029-two-city-scheduling](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1029-two-city-scheduling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
