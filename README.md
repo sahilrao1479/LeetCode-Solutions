@@ -16,6 +16,7 @@ My Java solutions to LeetCode problems.
 | [0033-search-in-rotated-sorted-array](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0056-merge-intervals) |
@@ -338,6 +339,7 @@ My Java solutions to LeetCode problems.
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0079-word-search) |
 ## Manacher
