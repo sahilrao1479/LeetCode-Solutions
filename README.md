@@ -31,6 +31,7 @@ My Java solutions to LeetCode problems.
 | [0268-missing-number](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
@@ -69,6 +70,7 @@ My Java solutions to LeetCode problems.
 | [0005-longest-palindromic-substring](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0322-coin-change](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -162,6 +164,7 @@ My Java solutions to LeetCode problems.
 | [0101-symmetric-tree](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -431,4 +434,12 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
