@@ -87,6 +87,7 @@ My Java solutions to LeetCode problems.
 | [0144-binary-tree-preorder-traversal](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Depth-First Search
 |  |
@@ -102,6 +103,7 @@ My Java solutions to LeetCode problems.
 | [0145-binary-tree-postorder-traversal](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -260,6 +262,7 @@ My Java solutions to LeetCode problems.
 | [0144-binary-tree-preorder-traversal](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0856-score-of-parentheses](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
