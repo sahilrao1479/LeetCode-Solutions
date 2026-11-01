@@ -33,6 +33,7 @@ My Java solutions to LeetCode problems.
 | [0303-range-sum-query-immutable](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
 | [0605-can-place-flowers](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
@@ -214,6 +215,7 @@ My Java solutions to LeetCode problems.
 | [0189-rotate-array](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
