@@ -41,6 +41,7 @@ My Java solutions to LeetCode problems.
 | [0724-find-pivot-index](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-two-city-scheduling](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1029-two-city-scheduling) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -164,6 +165,7 @@ My Java solutions to LeetCode problems.
 | [0344-reverse-string](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
@@ -239,6 +241,7 @@ My Java solutions to LeetCode problems.
 | [0455-assign-cookies](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1029-two-city-scheduling](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1029-two-city-scheduling) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -320,6 +323,7 @@ My Java solutions to LeetCode problems.
 | [0069-sqrtx](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Simulation
 |  |
 | ------- |
