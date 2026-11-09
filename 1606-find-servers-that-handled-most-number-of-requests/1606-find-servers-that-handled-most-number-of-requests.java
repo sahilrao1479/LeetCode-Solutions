@@ -1,5 +1,5 @@
 class Solution {
-    record Job(int at, int server) {}  
+    record Job(int at, int server) {}  // at: the time its server frees up
 
     public List<Integer> busiestServers(int k, int[] arrival, int[] load) {
         PriorityQueue<Integer> free = new PriorityQueue<>();  // each free server, keyed by its next turn
