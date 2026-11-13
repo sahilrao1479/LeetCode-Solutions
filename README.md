@@ -49,6 +49,7 @@ My Java solutions to LeetCode problems.
 | [2778-sum-of-squares-of-special-elements](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -289,6 +290,7 @@ My Java solutions to LeetCode problems.
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Recursion
 |  |
 | ------- |
@@ -301,6 +303,7 @@ My Java solutions to LeetCode problems.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Trie
 |  |
@@ -392,6 +395,7 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -454,6 +458,7 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Merge Sort
 |  |
 | ------- |
@@ -474,4 +479,12 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
