@@ -49,6 +49,7 @@ My Java solutions to LeetCode problems.
 | [2778-sum-of-squares-of-special-elements](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -303,6 +304,7 @@ My Java solutions to LeetCode problems.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Trie
@@ -360,6 +362,7 @@ My Java solutions to LeetCode problems.
 | [0209-minimum-size-subarray-sum](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Binary Search Tree
 |  |
 | ------- |
