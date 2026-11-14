@@ -36,6 +36,7 @@ My Java solutions to LeetCode problems.
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0605-can-place-flowers](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0724-find-pivot-index](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
@@ -228,6 +229,7 @@ My Java solutions to LeetCode problems.
 | [0202-happy-number](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -246,6 +248,7 @@ My Java solutions to LeetCode problems.
 | [0268-missing-number](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1029-two-city-scheduling](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1029-two-city-scheduling) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
