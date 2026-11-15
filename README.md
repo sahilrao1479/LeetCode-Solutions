@@ -44,6 +44,7 @@ My Java solutions to LeetCode problems.
 | [1029-two-city-scheduling](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1029-two-city-scheduling) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -85,6 +86,7 @@ My Java solutions to LeetCode problems.
 | [0322-coin-change](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3665-twisted-mirror-path-count) |
@@ -231,6 +233,7 @@ My Java solutions to LeetCode problems.
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -365,6 +368,7 @@ My Java solutions to LeetCode problems.
 | [0209-minimum-size-subarray-sum](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Binary Search Tree
 |  |
