@@ -211,6 +211,7 @@ My Java solutions to LeetCode problems.
 | [1392-longest-happy-prefix](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1392-longest-happy-prefix) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -346,6 +347,7 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sahilrao1479/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
